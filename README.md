@@ -1,2 +1,2 @@
 # SimpleDB_Java
-A previous Java based Database project re -upload
+Re-upload for a previous Java based Database project
